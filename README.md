@@ -10,3 +10,5 @@ fileseek 不如 FileLocator好用
 FileLocator支持xmind文件内容搜索，预览
 fileseek 不支持
 Anytxt Searcher 好厉害，
+dnGREP 也很厉害支持二进制
+
