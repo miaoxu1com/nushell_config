@@ -1,1 +1,8 @@
 https://thejiahao.github.io/zh-cn/posts/nushell-setup/
+
+文章中的XDG_CONFIG_HOME环境变量window中 指定配置文件存放目录
+Argc-completions 下载后存放到XDG_CONFIG_HOME配置文件目录
+
+bash ./scripts/setup-shell.sh nushell 自动获取XDG_CONFIG_HOME的值生成适配的配置
+
+nushell厉害直接支持bash 脚本
