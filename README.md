@@ -20,3 +20,4 @@ https://pscompletions.pages.dev/zh-CN/tips/pscompletions-and-argc-completions.ht
 PowerShell: 跨平台的 PowerShell。运行 pwsh/pwsh.exe 启动
 Windows PowerShell: Windows 系统内置的 PowerShell。运行 powershell/powershell.exe 启动
 它们都可以使用 PSCompletions, 但是更推荐 PowerShell
+https://gitee.com/abgox/PSCompletions
